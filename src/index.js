@@ -1,1 +1,7 @@
-console.log("hi");
+import './style.css';
+import { loadPage } from './page';
+
+loadPage();
+
+
+
